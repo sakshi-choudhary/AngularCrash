@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HeaderComponent implements OnInit {
 
-  title:string = 'Write your task here';
+  title:string = 'Task tracker';
   
   constructor() { }
 
