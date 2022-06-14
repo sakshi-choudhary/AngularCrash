@@ -2,11 +2,14 @@
     margin: 5px;
     padding: 1px 12px;
     box-shadow: rgba(248, 187, 220, 0.801) 2px 3px 7px 2px;
-    border-radius: 10px;
     background-color: rgb(255, 239, 244);
 }
 .flex{
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+.task.reminder{
+    border-left: 3px solid rgb(19, 144, 19);
+
 }
